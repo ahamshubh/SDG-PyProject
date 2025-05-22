@@ -1,1 +1,1 @@
-SelfDevelopmentGoals project, data visualisation using python.
+SelfDevelopmentGoals project, basic data visualisation project in python.
