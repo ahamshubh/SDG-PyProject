@@ -1,2 +1,1 @@
-# evs_report
-evs project and report
+SelfDevelopmentGoals project, data visualisation using python.
